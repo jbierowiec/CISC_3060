@@ -37,8 +37,21 @@ This repository contains all four labs and final project I have worked on with o
 
 ```plaintext
 ├── lab_1
+│   ├── CISC 3060 Lab Assignment 1.pdf
+│   └── Introduction to Robotics Lab Report 1.pdf
 ├── lab_2
+│   ├── CISC 3060 Lab Assignment 2.pdf
+│   └── Introduction to Robotics Lab Report 2.pdf
 ├── lab_3
+│   ├── CISC 3060 Lab Assignment 3.pdf
+│   └── Introduction to Robotics Lab Report 3.pdf
 ├── lab_4
+│   ├── CISC 3060 Lab Assignment 4.pdf
+│   └── Introduction to Robotics Lab Report 4.pdf
 └── final_project
+    ├── CISC 3060 Class Project.pdf
+    ├── Introduction to Robotics Final Project Report.pdf
+    ├── Robotic System to Perform Obstacle Avoidance and Color Tracking.pdf
+    ├── OA_final_project.py
+    └── track_target_T3.py
 ```
