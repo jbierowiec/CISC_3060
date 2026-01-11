@@ -1,4 +1,4 @@
-# CISC_3060 Introduction to Robotics Labs & Final Project
+# CISC 3060 Introduction to Robotics Labs & Final Project
 
 This repository contains all four labs and final project I have worked on with other students in relation to Introduction to Robotics.
 
